@@ -80,7 +80,7 @@
     <string name="center_wallpaper_position" msgid="4166894762352288883">"Разместить по центру"</string>
     <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Заполнить"</string>
     <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Растянуть"</string>
-    <string name="preview" msgid="1774602101743861071">"Предварительный просмотр"</string>
+    <string name="preview" msgid="1774602101743861071">"Просмотр"</string>
     <string name="tab_info" msgid="818614080690111416">"Информация"</string>
     <string name="tab_customize" msgid="2533745409174959960">"Настройка"</string>
     <string name="tab_effects" msgid="3213606157589233901">"Эффекты"</string>
@@ -93,6 +93,7 @@
     <string name="bottom_action_bar_back" msgid="2620581414970740784">"Перейти вверх"</string>
     <string name="bottom_action_bar_edit" msgid="1214742990893082138">"Изменить"</string>
     <string name="bottom_action_bar_download" msgid="3983122338076389421">"Скачать"</string>
+    <string name="download_effects" msgid="2772742927165716701">"Скачать эффекты"</string>
     <string name="bottom_action_bar_slideshow_wallpaper" msgid="509770525179533154">"Начать слайд-шоу обоев"</string>
     <string name="bottom_action_bar_apply" msgid="2983308349819178932">"Применить"</string>
     <string name="accessibility_preview_pager" msgid="1839869637405028575">"Страница <xliff:g id="ID_1">%1$d</xliff:g> из <xliff:g id="ID_2">%2$d</xliff:g>"</string>
@@ -134,5 +135,5 @@
     <string name="recents_wallpaper_label" msgid="8653165542635660222">"%1$s, %2$d"</string>
     <string name="default_wallpaper_title" msgid="2541071182656978180">"Обои"</string>
     <string name="small_preview_tooltip" msgid="1920430079013352071">"Нажмите, чтобы изменить фотографию"</string>
-    <string name="full_preview_tooltip" msgid="4648994028015322759">"Измените положение, масштаб и угол наклона фотографий"</string>
+    <string name="full_preview_tooltip" msgid="4648994028015322759">"Положение, масштаб и угол наклона фото можно изменить"</string>
 </resources>

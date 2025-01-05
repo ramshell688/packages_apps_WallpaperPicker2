@@ -93,6 +93,7 @@
     <string name="bottom_action_bar_back" msgid="2620581414970740784">"Дээш шилжих"</string>
     <string name="bottom_action_bar_edit" msgid="1214742990893082138">"Засах"</string>
     <string name="bottom_action_bar_download" msgid="3983122338076389421">"Татах"</string>
+    <string name="download_effects" msgid="2772742927165716701">"Эффектийг татах"</string>
     <string name="bottom_action_bar_slideshow_wallpaper" msgid="509770525179533154">"Слайдаар харуулах дэлгэцийн зураг"</string>
     <string name="bottom_action_bar_apply" msgid="2983308349819178932">"Хэрэгжүүлэх"</string>
     <string name="accessibility_preview_pager" msgid="1839869637405028575">"Хуудас <xliff:g id="ID_2">%2$d</xliff:g>-н <xliff:g id="ID_1">%1$d</xliff:g>"</string>
@@ -134,5 +135,5 @@
     <string name="recents_wallpaper_label" msgid="8653165542635660222">"%1$s, %2$d"</string>
     <string name="default_wallpaper_title" msgid="2541071182656978180">"Дэлгэцийн зураг"</string>
     <string name="small_preview_tooltip" msgid="1920430079013352071">"Зургаа засахын тулд товшино уу"</string>
-    <string name="full_preview_tooltip" msgid="4648994028015322759">"Зургуудынхаа байрлал, масштаб болон өнцгийг тохируулна уу"</string>
+    <string name="full_preview_tooltip" msgid="4648994028015322759">"Зургийнхаа байрлал, хэмжээ, өнцгийг тохируулна уу"</string>
 </resources>

@@ -21,7 +21,7 @@
     <!-- no translation found for app_name (8773648973927541493) -->
     <skip />
     <string name="select_wallpaper_label" msgid="6989581259339646085">"Тушкагаз категориялары"</string>
-    <string name="set_wallpaper_button_text" msgid="5445978864530156290">"Тушкагаз орнотуу"</string>
+    <string name="set_wallpaper_button_text" msgid="5445978864530156290">"Тушкагаз коюу"</string>
     <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Тушкагаз орнотулууда…"</string>
     <string name="try_again" msgid="8278874823700921234">"Кайталоо"</string>
     <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Тушкагаз орнотулбай жатат."</string>
@@ -93,6 +93,7 @@
     <string name="bottom_action_bar_back" msgid="2620581414970740784">"Мурунку экранга өтүү"</string>
     <string name="bottom_action_bar_edit" msgid="1214742990893082138">"Түзөтүү"</string>
     <string name="bottom_action_bar_download" msgid="3983122338076389421">"Жүктөп алуу"</string>
+    <string name="download_effects" msgid="2772742927165716701">"Эффекттерди жүктөп алуу"</string>
     <string name="bottom_action_bar_slideshow_wallpaper" msgid="509770525179533154">"Тушкагазды слайдшоу катары көрсөтүү"</string>
     <string name="bottom_action_bar_apply" msgid="2983308349819178932">"Колдонуу"</string>
     <string name="accessibility_preview_pager" msgid="1839869637405028575">"<xliff:g id="ID_2">%2$d</xliff:g> ичинен <xliff:g id="ID_1">%1$d</xliff:g>-барак"</string>
@@ -134,5 +135,5 @@
     <string name="recents_wallpaper_label" msgid="8653165542635660222">"%1$s, %2$d"</string>
     <string name="default_wallpaper_title" msgid="2541071182656978180">"Тушкагаз"</string>
     <string name="small_preview_tooltip" msgid="1920430079013352071">"Сүрөтүңүздү түзөтүү үчүн таптап коюңуз"</string>
-    <string name="full_preview_tooltip" msgid="4648994028015322759">"Сүрөттөрдүн абалын, масштабын жана бурчун тууралаңыз"</string>
+    <string name="full_preview_tooltip" msgid="4648994028015322759">"Сүрөттөрдүн абалын, көлөмүн жана бурчун тууралаңыз"</string>
 </resources>

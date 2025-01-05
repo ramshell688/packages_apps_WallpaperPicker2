@@ -93,6 +93,7 @@
     <string name="bottom_action_bar_back" msgid="2620581414970740784">"Naršyti į viršų"</string>
     <string name="bottom_action_bar_edit" msgid="1214742990893082138">"Redaguoti"</string>
     <string name="bottom_action_bar_download" msgid="3983122338076389421">"Atsisiųsti"</string>
+    <string name="download_effects" msgid="2772742927165716701">"Atsisiųsti efektus"</string>
     <string name="bottom_action_bar_slideshow_wallpaper" msgid="509770525179533154">"Ekrano fono skaidrių demonstr."</string>
     <string name="bottom_action_bar_apply" msgid="2983308349819178932">"Taikyti"</string>
     <string name="accessibility_preview_pager" msgid="1839869637405028575">"<xliff:g id="ID_1">%1$d</xliff:g> psl. iš <xliff:g id="ID_2">%2$d</xliff:g>"</string>
@@ -130,7 +131,7 @@
     <string name="reset" msgid="4945445169532850631">"Nust. iš n."</string>
     <string name="reset_confirmation_dialog_title" msgid="3391905685838213712">"Nustatyti pakeitimus iš naujo?"</string>
     <string name="reset_confirmation_dialog_message" msgid="888669268626289603">"Pakeitimai nebus išsaugoti"</string>
-    <string name="more_wallpapers" msgid="8116268433411881705">"Daugiau darbalaukio fonų"</string>
+    <string name="more_wallpapers" msgid="8116268433411881705">"Daugiau ekrano fonų"</string>
     <string name="recents_wallpaper_label" msgid="8653165542635660222">"%1$s, %2$d"</string>
     <string name="default_wallpaper_title" msgid="2541071182656978180">"Ekrano fonas"</string>
     <string name="small_preview_tooltip" msgid="1920430079013352071">"Palieskite, kad redaguotumėte nuotrauką"</string>

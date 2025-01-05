@@ -32,7 +32,7 @@
     <string name="choose_a_wallpaper_section_title" msgid="1009823506890453891">"Odaberite pozadinu"</string>
     <string name="creative_wallpaper_title" msgid="3581650238648981372">"Napravite pozadinu"</string>
     <string name="home_screen_message" msgid="106444102822522813">"Početni ekran"</string>
-    <string name="lock_screen_message" msgid="1534506081955058013">"Zaključan ekran"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Zaključani ekran"</string>
     <string name="home_and_lock_short_label" msgid="2937922943541927983">"Početni i zaključani ekran"</string>
     <string name="set_wallpaper_dialog_message" msgid="2110475703996853076">"Podesite pozadinu na"</string>
     <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Početni ekran"</string>
@@ -93,6 +93,7 @@
     <string name="bottom_action_bar_back" msgid="2620581414970740784">"Idi nagore"</string>
     <string name="bottom_action_bar_edit" msgid="1214742990893082138">"Izmeni"</string>
     <string name="bottom_action_bar_download" msgid="3983122338076389421">"Preuzmi"</string>
+    <string name="download_effects" msgid="2772742927165716701">"Preuzmi efekte"</string>
     <string name="bottom_action_bar_slideshow_wallpaper" msgid="509770525179533154">"Projekcija slajdova u pozadini"</string>
     <string name="bottom_action_bar_apply" msgid="2983308349819178932">"Primeni"</string>
     <string name="accessibility_preview_pager" msgid="1839869637405028575">"<xliff:g id="ID_1">%1$d</xliff:g>. stranica od <xliff:g id="ID_2">%2$d</xliff:g>"</string>
